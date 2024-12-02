@@ -1,4 +1,4 @@
-# U-Net for Skin Cancer Segmentation
+# SKIN CANCER SEGMENTATION
 
 ![alt text](./assets/results.png)
 
