@@ -25,7 +25,7 @@ cd skin-cancer-segmentation
 pip install -r requirement.txt
 ```
 
-You can find the notebook in ```./notebooks/UNet_skin_cancer_seg.ipynb```
+You can find the notebook in ```./notebooks/UNet_skin_cancer_seg.ipynb``` and the model [here](https://huggingface.co/natavito/skin_cancer_seg/blob/main/README.md).
 
 ## 🤝 Collaborators
 
