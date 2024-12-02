@@ -1,3 +1,8 @@
-supervisely
-psutil==5.9.0
 kagglehub
+opencv-python==4.10.0.84
+matplotlib==3.9.2
+numpy==1.26.4
+torch==2.4.1
+pillow==10.2.0
+tqdm==4.66.5
+torchvision==0.19.1
