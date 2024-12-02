@@ -1,0 +1,3 @@
+supervisely
+psutil==5.9.0
+kagglehub

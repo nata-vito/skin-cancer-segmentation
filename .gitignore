@@ -139,7 +139,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+/results
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -153,6 +153,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+skin-cancer_-ham10000-DatasetNinja/
+ham1000-segmentation-and-classification/
+models/
+*.tar
+*.zip
+.vscode/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
