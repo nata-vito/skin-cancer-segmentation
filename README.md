@@ -12,7 +12,7 @@ The U-Net architecture achieves very good performance on very different biomedic
 
 Figure 1
 
-![U-net architecture](image.png)
+![U-net architecture](./assets/image.png)
 
 
 ## HOW TO INSTALL
@@ -38,26 +38,26 @@ Dice score = 2 * (number of common elements) / (number of elements in set A + nu
 
 [Dice Coefficient! What is it?](https://medium.com/@lathashreeh/dice-coefficient-what-is-it-ff090ec97bda)
 
-![alt text](image-2.png)
+![alt text](./assets/image-2.png)
 
 ### Inference Results
 
 **skin_cancer_v1.pth**
 
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](./assets/image-3.png)
+![alt text](./assets/image-4.png)
+![alt text](./assets/image-5.png)
+![alt text](./assets/image-6.png)
+![alt text](./assets/image-7.png)
 
 
 **skin_cancer_v2.pth**
 
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](./assets/image-8.png)
+![alt text](./assets/image-9.png)
+![alt text](./assets/image-10.png)
+![alt text](./assets/image-11.png)
+![alt text](./assets/image-12.png)
 
 | Model | Image | DICE Coeficient |
 | ------------- | ------------- | ------------- |
