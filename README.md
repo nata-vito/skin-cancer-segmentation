@@ -29,8 +29,6 @@ You can find the notebook in ```./notebooks/UNet_skin_cancer_seg.ipynb``` and th
 
 ## COMPARING MODELS
 The second version of the model has improved compared to the first, as can be seen in the image below. The two models are submitted to the same image for inference, and the following table shows the results of the inference.
-The second version of the model has improved compared to the first, as can be seen in the image below. The two models are submitted to the same image for inference, and the following table shows the results of the inference.
-
 
 The metric used to evaluate the model was the DICE score.
 
