@@ -2,7 +2,7 @@
 
 ![alt text](./assets/results.png)
 
-The aim of this project is to train segmentation models with png mask. This work uses [UNet model](https://arxiv.org/pdf/1505.04597) specialized in biomedical image segmentation in order to segment skin cancers. I used the dataset [Skin cancer: HAM10000](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/data), a easy download version of [The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions](https://doi.org/10.7910/DVN/DBW86T) and trained the model. The dataset used consists of .jpg images and .png binary masks.
+I recently challenged myself to implement the U-Net network to learn how it works and developed this project. The aim of this project is to train segmentation models with png mask. This work uses [UNet model](https://arxiv.org/pdf/1505.04597) specialized in biomedical image segmentation in order to segment skin cancers. I used the dataset [Skin cancer: HAM10000](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/data), a easy download version of [The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions](https://doi.org/10.7910/DVN/DBW86T) and trained the model. The dataset used consists of .jpg images and .png binary masks. In this project I'm also using the overlay of the predicted mask with the original image, which makes it easier to understand the area affected by skin cancer. If you're interested in the topic, feel free to learn more about this architecture. I've prepared an easy-to-understand and easy-to-implement notebook. 
 
 
 ## U-Net Architecture
